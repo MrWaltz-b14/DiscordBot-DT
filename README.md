@@ -1,7 +1,7 @@
-#0969DA Diverse-Table-DiscBot
-A Discord bot for the Diverse Table's Community Server. 
+### Diverse-Table-DiscBot
+## Desc: A Discord bot for the Diverse Table's Community Server. 
 
-Goal: Create an all use Chatbot who can communicate with the server like a real human. 
+Goal: Create an informative and fun discord bot to be used in our community server. 
 
 ## Func to add: 
 - [ ]   /chat (usermessage)
@@ -11,5 +11,5 @@ Goal: Create an all use Chatbot who can communicate with the server like a real 
 - [ ]   /DT Image (Pull image from web?)
   
 ## To do: 
-  Find a good hosting site. 
-  get the bot tested and finished. 
+  - [ ] Find a good hosting site. 
+  - [ ] get the bot tested and finished. 
