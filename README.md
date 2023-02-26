@@ -4,11 +4,11 @@ A Discord bot for the Diverse Table's Community Server.
 Goal: Create an all use Chatbot who can communicate with the server like a real human. 
 
 ## Func to add: 
- [ ]  /chat
- [ ] /DT info
- [ ] /DT ghub
- [ ]   /DT malek
- [ ]
+- [ ]   /chat (usermessage)
+- [ ]   /DT info (Bot information)
+- [ ]   /DT ghub (Github Information
+- [ ]   /DT malek (Information On malek)
+- [ ]   /DT Image (Pull image from web?)
   
 ## To do: 
   Find a good hosting site. 
